@@ -1,6 +1,6 @@
 # ETS_TEST
 
-Ce repository héberge mes travaux dans le cadre d'un processus de sélection pour un stage d'été à l’ÉTS de Montréal.
+Ce repository héberge mes travaux effectués dans le cadre d'un processus de sélection pour un stage d'été à l’ÉTS de Montréal.
 
 Le dossier codes contient deux fichiers:
 - **classes.py** (contenant toutes les classes nécessaires à l'analyse, l'extraction de données et la création de graphiques
