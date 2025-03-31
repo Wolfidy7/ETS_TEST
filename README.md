@@ -7,3 +7,5 @@ Le dossier codes contient deux fichiers:
 - **gui.py** (point d'entrée du programme, contient la classe et les méthodes nécessaires à la création d'une interface graphique intuitive permettant d'exécuter les différentes méthodes)
 
 Les résultats attendus sont disponibles dans le dossier **expected_results**.
+
+Le rapport du travail effectué est le fichier suivant rédigé en Latex: **rapport_test_pratique_Sherif_MAKALOU.pdf**
